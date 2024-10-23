@@ -1,1 +1,1 @@
-console.log("Halo")
+console.log("Halo dari branch dev2")
